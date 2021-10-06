@@ -946,7 +946,7 @@
       <entry name="zoom" value="32"
 	     summary="a mask to turn the maximize_restore button to zoom button"/>
       <entry name="center" value="64"
-         summary="a customizable, center-aligned button"/>
+	     summary="a customizable, center-aligned button"/>
     </enum>
 
     <request name="set_frame_buttons" since="13">
